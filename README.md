@@ -11,3 +11,4 @@ https://aws-quickstart.github.io/quickstart-vmware-tanzu-application-platform/
 TAP GUI Url: http://tanzu-java-web-app-workload.tap-workload.quickstart-tap-mpitts.com
 
 # Set up Namespace and Deploy App
+Sample Accelerators: https://github.com/sample-accelerators
